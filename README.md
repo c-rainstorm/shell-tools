@@ -5,3 +5,4 @@
 ---
 
 - [批量修改文件后缀](./rename-file-suffix.sh)
+- [批量创建软连接](./create-soft-link.sh)
