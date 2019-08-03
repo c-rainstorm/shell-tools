@@ -75,6 +75,7 @@ then
         echo "Stopping $PORT"
         redis-cli -p $PORT shutdown nosave
     done
+    rm -rf ./node*
     exit 0
 fi
 
